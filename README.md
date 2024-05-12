@@ -1,3 +1,2 @@
 # Code-Soft-task-1
-Codesoft internship in Java Programming
-Task-Number game in Java
+this is codsoft java intership task 1 in which have the java program for number game
